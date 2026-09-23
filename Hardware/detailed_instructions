@@ -6,6 +6,7 @@ click on the desired component. On the left side of the screen there are differe
 of the component that you want to face down. 
 
 
+
 After the component is placed face down on the horizontal plane, it is time to enter the printer settings. In the top right of the screen, you see 'printer settings:', 'Filament' and 'printer'.
 For print settings, choose the '0.20 mm STRUCTURAL', for the filament, choose the 'Prusa PLA - black' and for the printer, choose an available printer. On the right of the screen, there is a vertical slider.
 Adjusting it gives you insight in the different layers. Slide both sides up and down. In case you see a dark blue part in the component appearing, it needs support. To give this support,
