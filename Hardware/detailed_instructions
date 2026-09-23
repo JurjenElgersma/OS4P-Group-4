@@ -1,1 +1,13 @@
-This is the space for students of the course to produce their improved step-by-step instructions. 
+Wednesday 23-09
+To 3D print the components for the gearbox, follow this guide. Open the program prusaslicer. To import a component of the Gearbox into the Prusaslicer program,  first download the 
+file of the desired component. Then, upload it to the prusasliser by cklicking on the most left box icon on the top bar. It asks you to select a file that you want to add.
+When you choose the desired component, it will give a schematic overview of the component on the horizontal plane. It is importgant that the largest part goes on top. To do this you first
+click on the desired component. On the left side of the screen there are different options. Select the fourth option from above 'place to face'. Now you click on the side
+of the component that you want to face down. 
+
+
+After the component is placed face down on the horizontal plane, it is time to enter the printer settings. In the top right of the screen, you see 'printer settings:', 'Filament' and 'printer'.
+For print settings, choose the '0.20 mm STRUCTURAL', for the filament, choose the 'Prusa PLA - black' and for the printer, choose an available printer. On the right of the screen, there is a vertical slider.
+Adjusting it gives you insight in the different layers. Slide both sides up and down. In case you see a dark blue part in the component appearing, it needs support. To give this support,
+there are 3 different options on the right of the screen under 'supports'. For the components that we are rpinting, it suffices to select support on build plate only.
+
