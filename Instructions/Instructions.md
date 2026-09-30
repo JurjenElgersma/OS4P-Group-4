@@ -1,5 +1,4 @@
-Wednesday 23-09
-To 3D print the components for the gearbox, follow this guide. 
+# To 3D print the components for the gearbox, follow this guide. 
 
 ## **Step 1: Uploading the hardware:**
   
